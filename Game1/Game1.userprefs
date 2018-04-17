@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{35E37FF1-AFDA-94C7-0A4A-DC4EE8CFA03B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GoodBallController.cs">
+    <Files>
+      <File FileName="Assets/Script/PaddleController.cs" Line="37" Column="6" />
+      <File FileName="Assets/Script/GoodBallController.cs" Line="28" Column="32" />
+      <File FileName="Assets/Script/BadBallController.cs" Line="44" Column="85" />
+      <File FileName="Assets/Script/MainMenu.cs" Line="37" Column="35" />
+      <File FileName="Assets/Script/RestartController.cs" Line="8" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Game1 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
